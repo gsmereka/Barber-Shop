@@ -31,3 +31,7 @@ Este projeto foi inspirado nos repositórios oficiais do bootcamp Decola Tech 20
 - Este repositório serve como entrega final do projeto, reunindo o frontend e o backend desenvolvidos.
 - Os detalhes técnicos de instalação e uso estão disponíveis nos repositórios originais da DIO.
 
+## 🌍 Self-hosting da API com Ngrok
+
+A API está sendo self-hosted utilizando o ngrok para expor a aplicação localmente a partir de um servidor local.
+
